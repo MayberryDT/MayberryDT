@@ -2,7 +2,7 @@
 
 AI systems builder focused on agentic workflows, internal tools, automation, and practical product prototypes.
 
-I am building a path at the intersection of AI tools, software, operations, and product execution. My background is unusual: hospitality operations, automotive systems testing, ecommerce, teaching in Japan, copywriting, and a lot of self-directed software/AI building. The through-line is systems: finding messy workflows, making them legible, and turning them into tools people can actually use.
+I work at the intersection of AI tools, software, operations, and product execution. My background spans hospitality operations, automotive systems testing, ecommerce, teaching in Japan, copywriting, and self-directed AI/software building. The through-line is systems: finding messy workflows, making them legible, and turning them into tools people can actually use.
 
 ## What I Build
 
@@ -16,33 +16,33 @@ I am building a path at the intersection of AI tools, software, operations, and 
 
 I am especially interested in remote roles where I can help teams use modern AI tools well: implementation, automation, developer tooling, support/product engineering, internal tools, AI operations, or technically adjacent product work.
 
-I use AI coding agents heavily and think that is part of the point. My value is not pretending the tools do not exist; it is knowing how to direct them, verify them, connect them to real workflows, and turn vague problems into shipped systems.
+I use AI coding agents heavily. My value is knowing how to direct them, verify them, connect them to real workflows, and turn vague problems into shipped systems.
 
-## Selected Projects
+## Selected Work
 
-### Animas AI
+### [Animas AI](https://github.com/MayberryDT/animas-ai)
 
 Business and project umbrella for AI systems, workflow automation, internal tools, and practical product builds.
 
-### App Portfolio
+### [App Portfolio](https://github.com/MayberryDT/apps-portfolio)
 
 Public index of prototypes and experiments, including AI-assisted tools, hospitality concepts, credit workflow prototypes, and creative technical projects.
 
-### Julian Control Panel
+### [Julian Control Panel](https://github.com/MayberryDT/julian-control-panel)
 
 Browser-based HeyGen avatar-video generation interface with a security-minded client-side workflow and transparent request logging.
 
-### Paycheck Sanity Checker
+### [Paycheck Sanity Checker](https://github.com/MayberryDT/paycheck-sanity-checker)
 
 Prototype for reviewing pay stubs and flagging possible discrepancies, shaped by real service-worker and hospitality operations experience.
 
-### Relationship Pattern Quiz
+### [Relationship Pattern Quiz](https://github.com/MayberryDT/relationship-pattern-quiz)
 
 Consumer diagnostic-flow prototype connecting quiz UX, personalization, and AI media/content experimentation.
 
-### Rat Detective Online
+### [InnTouch](https://github.com/MayberryDT/InnTouch)
 
-Creative 3D browser-game prototype using Three.js, TypeScript, Vite, and physics-based interactions.
+Hospitality guest-experience prototype connecting hotel operations knowledge with lightweight product and workflow design.
 
 ## Contact
 
