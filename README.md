@@ -20,9 +20,9 @@ I use AI coding agents heavily. My value is knowing how to direct them, verify t
 
 ## Selected Work
 
-### [Animas AI](https://github.com/MayberryDT/animas-ai)
+### [Cirlet](https://cirlet.com)
 
-Business and project umbrella for AI systems, workflow automation, internal tools, and practical product builds.
+Cirlet is my company. It plans, sets up and supports AI agents that use browsers and desktop apps on computers people own. It was called Animas until September 2026.
 
 ### [App Portfolio](https://github.com/MayberryDT/apps-portfolio)
 
@@ -47,6 +47,6 @@ Hospitality guest-experience prototype connecting hotel operations knowledge wit
 ## Contact
 
 - Portfolio: https://tylermayberry.dev
-- Business: https://animasai.co
+- Business: https://cirlet.com
 - LinkedIn: https://www.linkedin.com/in/mayberrydt/
-- Email: tyler@animasai.co
+- Email: tyler@cirlet.com
