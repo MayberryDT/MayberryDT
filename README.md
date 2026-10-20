@@ -24,6 +24,12 @@ I use AI coding agents heavily. My value is knowing how to direct them, verify t
 
 Cirlet is my company. It plans, sets up and supports AI agents that use browsers and desktop apps on computers people own. It was called Animas until September 2026.
 
+### [ibara](https://ibara.app)
+
+ibara lets my agents use a spare Omarchy computer while I keep working on mine. They can use its browser and desktop apps, and I can watch or take over from the console. It connects over Tailscale and gives agents MCP tools.
+
+[Source](https://github.com/MayberryDT/ibara) · [First task](https://ibara.app/docs/first-task)
+
 ### [App Portfolio](https://github.com/MayberryDT/apps-portfolio)
 
 Public index of prototypes and experiments, including AI-assisted tools, hospitality concepts, credit workflow prototypes, and creative technical projects.
