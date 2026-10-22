@@ -22,7 +22,7 @@ I use AI coding agents heavily. My value is knowing how to direct them, verify t
 
 ### [Cirlet](https://cirlet.com)
 
-Cirlet is my company. It plans, sets up and supports AI agents that use browsers and desktop apps on computers people own. It was called Animas until September 2026.
+Cirlet is my company. I help independent insurance agencies put AI and automation to work through advice, software setup and separately scoped workflows. It was called Animas until September 2026.
 
 ### [ibara](https://ibara.app)
 
