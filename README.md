@@ -28,7 +28,7 @@ Cirlet is my company. I help independent insurance agencies put AI and automatio
 
 ibara lets my agents use a spare Omarchy computer while I keep working on mine. They can use its browser and desktop apps, and I can watch or take over from the console. It connects over Tailscale and gives agents MCP tools.
 
-[Source](https://github.com/MayberryDT/ibara) · [First task](https://ibara.app/docs/first-task)
+[Source](https://github.com/MayberryDT/ibara) · [First task](https://ibara.app/docs/first-task) · [Paid setup and support](https://ibara.app/support)
 
 ### [App Portfolio](https://github.com/MayberryDT/apps-portfolio)
 
