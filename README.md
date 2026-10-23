@@ -22,7 +22,9 @@ I use AI coding agents heavily. My value is knowing how to direct them, verify t
 
 ### [Cirlet](https://cirlet.com)
 
-Cirlet is my company. I help independent insurance agencies put AI and automation to work through advice, software setup and separately scoped workflows. It was called Animas until September 2026.
+Cirlet is my company. I help independent insurance agencies protect client information and reduce repetitive work through scoped cybersecurity reviews, practical AI training and workflow automation. It was called Animas until September 2026.
+
+[Free agency security guides and tools](https://aicybersecurityforinsuranceagencies.com/) · [Agency AI & Security Quickstart](https://cirlet.com/quickstart)
 
 ### [ibara](https://ibara.app)
 
